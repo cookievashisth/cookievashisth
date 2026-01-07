@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m an engineer working on offline, local-first Human-AI interaction systems with a focus on voice control, eye-tracking, and gesture-based interfaces. My work emphasizes privacy, deterministic behavior, and systems thinking over superficial optimization.<br><br>I operate with a strong bias toward execution — building reproducible pipelines, resilient architectures, and automation-driven tooling that reduces friction instead of adding complexity.<br><br>
-
+I’m an engineer working on offline, local-first Human-AI interaction systems with a focus on voice control, eye-tracking, and gesture-based interfaces. My work emphasizes privacy, deterministic behavior, and systems thinking over superficial optimization.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cookie.vashisth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/cookievashisth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavvashistha04@gmail.com) 
